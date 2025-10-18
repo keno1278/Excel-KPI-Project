@@ -1,3 +1,7 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Status](https://img.shields.io/badge/Project-Complete-blue)
+![Visualization](https://img.shields.io/badge/Type-Dashboard-orange)
+
 # 📊 Excel KPI Dashboard  
 
 ## 📘 Project Overview  
